@@ -1,13 +1,8 @@
 # SPACE APPS CHALLENGE 2026 Astronaut Health Monitor Project Analysis
 
-Below  is information about the Challenge in Summary Form
+Below  is information about the Challenge in summary form, also with some ideas added.
 
-[
- Features
- - 3 situations - 
-]
-
-Project Summary:
+## Project Summary:
 
  - Create software that:
     - helps astronauts assess their own heath
@@ -16,14 +11,25 @@ Project Summary:
     - helps astronauts evaluate and act on (the information about) the state of their health
     - guidance and treatments and health improvements
 
+## What the App could do
+
+Based on Challenge descriptions an App could:
+
+  - Take measurements
+  - Inform how to take specific measurements, step by step (also explain why the measurements are important)
+  - Give advice results that are abnormal
+  - Diagnose a situation based on the description
+  - Remind crew to take a measurement (could be time based, set schedule)
+    
+
 Astronauts are not doctors, so the tools must keep this in mind.
 
-Tools should explain:
+## Tools should explain:
  - how to take each measurement
  - why it matters
  - what to do when a value does not look normal
 
-Useful indicators: 
+## Useful indicators: 
  - blood pressure
  - heart rate
  - blood sugar
@@ -32,7 +38,8 @@ Useful indicators:
  - mood (anxiety and stress), boredom, team interaction
 
 How do Hazards affect these indicators?
-Which measurements can be performed in space?
+
+## Which measurements can be performed in space?
  - urine samples (establish how often these should be taken and with others)
  - blood
  - eye pressure
@@ -45,24 +52,24 @@ When might a result require action from crew or flight surgeons on the ground?
 
 Body parts could be clickable and show information about the body parts, function and status.
 
-is it possible to get indicators:
+## is it possible to get indicators:
  - kidney health - hydration, salts, kidney stone risks,
  - heart health - abnormal hearth beat, elevated or sluggish
  - circulatory system health - blood pressure
  - skin health
  - immune system
 
-Is it possibly to create some kind of indicator based on measurements for each system
+# Is it possibly to create some kind of indicator based on measurements for each system
  - call to attention, for further detail
  - if issues detected advise on remediations, additional testing, actions to remedy the situation
 
-Tool can provide insights into different environments
+# Tool can provide insights into different environments
  - space craft
  - space station
  - rover
  - base on another planet or moon
 
-5 Hazards: 
+## 5 Hazards: 
  - space radiation
  - isolation and confinement (mental health / social issues / lack of exercise)
  - distance from Earth (lack of support - social, technological, communication etc.)
@@ -85,7 +92,7 @@ These Hazards can contribute to:
  - others
 
 
-More:
+# More:
  - you can remind the crew to take measurements
  - adapt it to different environments like:
    - a space craft
@@ -96,27 +103,19 @@ More:
 Explore NASA's human research program, to understand risks on human body and health indicators are relevant in that context.
 Can use NASA's open science data repository, which gathers real space biology data, which can be used for inspiration and to test ideas for the project.
 
-Scenario:
+## Scenario:
 
 In a situation when a crew member experiences pain in chest and collapses, what do you do?
 
+## Other
 This project combines science, design, space habitation and code.
+
 Project like this can inspire tools that can help communities with limited resources in remote locations on Earth.
 
 ## YouTube video:
 
 https://m.youtube.com/watch?v=RERG3gEmdC8
 
-
-
-## Response
-
-Based on Challenge descriptions an App could:
-  - Take measurements
-  - Inform how to take specific measurements, step by step (also explain why the measurements are important)
-  - Give advice results that are abnormal
-  - Diagnose a situation based on the description
-  - Remind crew to take a measurement (could be time based, set schedule)
 
 
 ## Place with link to videos on hazards
